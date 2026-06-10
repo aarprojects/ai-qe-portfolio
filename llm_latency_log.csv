@@ -1,0 +1,5 @@
+timestamp,model,prompt,ttfb_seconds,total_time_seconds,input_tokens,output_tokens,response_preview
+2026-06-09 22:46:49,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,1.1534,4.2633,21,300,"# 3 Best Practices for Testing LLM Outputs
+
+## 1. **Define Clear Quality Metrics**
+Establish measura"
