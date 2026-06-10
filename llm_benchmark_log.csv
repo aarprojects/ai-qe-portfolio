@@ -1,0 +1,6 @@
+timestamp,run,model,prompt,ttfb_seconds,total_time_seconds,input_tokens,output_tokens
+2026-06-09 23:09:19,1,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,0.7225,3.4814,21,300
+2026-06-09 23:09:24,2,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,0.695,3.5488,21,300
+2026-06-09 23:09:28,3,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,1.5485,4.412,21,300
+2026-06-09 23:09:34,4,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,0.5977,3.46,21,300
+2026-06-09 23:09:38,5,claude-haiku-4-5-20251001,What are 3 best practices for testing LLM outputs?,0.6412,3.4851,21,300
